@@ -2,6 +2,9 @@
 
 > Oyunlardaki yabancı dildeki altyazıları OCR ile anlık olarak okuyup, özel eğitilmiş (fine-tuned) yerel NLP modeliyle çeviren ve ekrana tıklanabilir şeffaf bir katman olarak basan düşük gecikmeli masaüstü uygulaması.
 
+### Yapay Zeka Çeviri Modeli  
+[![Download](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/EmirPancar/Deep_Learning_Based_Real_Time_Game_Translation_and_Overlay_System/releases)
+
 ## ✨ Öne Çıkan Özellikler
 
 - **Yerel ve Özelleştirilmiş Çeviri:** Hugging Face üzerinden fine-tune yapılmış özel `MarianMT` modeli sayesinde sıfır API gecikmesi ve oyuna özgü doğru çeviriler.
